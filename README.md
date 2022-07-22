@@ -18,7 +18,7 @@
 </div>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nifemifaith07&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there 👋
@@ -30,7 +30,7 @@
 ---
 <div align="left">
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 <!--
 **nifemifaith07/nifemifaith07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,5 +48,13 @@ Here are some ideas to get you started:
 - 📚 I'm  also learning **UI/UX** and **App Development** at **CodeOn**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote bootcaps and internship
-- 📫 How to reach me: via my socials or @ [Gmail](nifemifaith07@gmail.com)
+- 📫 How to reach me: via my socials or @ [Gmail](https://nifemifaith07@gmail.com)
+
+---
+
+### :hammer: Languages and Tools :
 </div>
+
+<!--
+## :books: [how to create impressive README](https://technwzs.com/how-to-create-an-impressive-github-profile-readme/)
+-->
