@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=nifemifaith07&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+# Hi There, I'm [Amuda Oluwanifemi] 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
@@ -37,18 +37,17 @@
 
 Here are some ideas to get you started:
 -->
-- 👧 I'm **Nifemi** from **Nigeria**
 <!--
 - 🔭 I’m currently working on
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-- 🌱 I’m currently **learning software engineering** at **ALX Africa**
-- 📚 I'm  also learning **UI/UX** and **App Development** at **CodeOn**
+- 🌱 I’m currently **learning software engineering** @ **ALX Africa**
+- 📚 I'm  also learning **UI/UX** and **App Development** @ **CodeOn**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote bootcaps and internship
-- 📫 How to reach me: via my socials or @ [Gmail](https://nifemifaith07@gmail.com)
+- 📫 How to reach me: via my socials or @ https://nifemifaith07@gmail.com
 
 ---
 
@@ -58,3 +57,9 @@ Here are some ideas to get you started:
 <!--
 ## :books: [how to create impressive README](https://technwzs.com/how-to-create-an-impressive-github-profile-readme/)
 -->
+
+---
+
+# Stats
+
+<a href="https://github.com/T=nifemifaith07"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=nifemifaith07&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifemifaith07&hide_title=true&hide_border=true&layout=compact&langs_count=10theme=tokyonight&&hide=css,html,shaderlab&theme=tokyonight" /></a> 
