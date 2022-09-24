@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 - 🌱 I’m currently **learning software engineering** @ **ALX Africa**
-- 📚 I'm  also learning **UI/UX** and **App Development** @ **CodeOn**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote bootcaps and internship
 - 📫 How to reach me: via my socials or @ https://nifemifaith07@gmail.com
