@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-- 🌱 I’m currently **learning software engineering** @ **ALX Africa**
+- 🌱 I’m currently **learning** @ **ALX Africa**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote bootcaps and internship
 - 📫 How to reach me: via my socials or @ https://nifemifaith07@gmail.com
