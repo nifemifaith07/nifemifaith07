@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 - 🙋 I'm a data analyst with interest in healthcare, and ML
-- 🌱 I’m currently **upskilling ** to Data Science
+- 🌱 I’m currently **upskilling** to Data Science
 - 👯 I’m looking to collaborate and network
 - 🤔 I’m looking for help with finding remote internship
 - 📫 How to reach me: via my socials or @ https://nifemifaith07@gmail.com
