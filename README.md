@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=nifemifaith07&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi There, I'm [Amuda Oluwanifemi] 👋
+# Hi There, I'm [Amuda Faith Oluwanifemi] 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-- 🌱 I’m currently **learning** @ **ALX Africa**
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with finding remote bootcaps and internship
+- 🙋 I'm a data analyst with interest in healthcare, and ML
+- 🌱 I’m currently **upskilling ** to Data Science
+- 👯 I’m looking to collaborate and network
+- 🤔 I’m looking for help with finding remote internship
 - 📫 How to reach me: via my socials or @ https://nifemifaith07@gmail.com
 
 ---
