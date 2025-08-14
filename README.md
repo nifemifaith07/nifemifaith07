@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-- 🙋 I'm a data analyst with interest in healthcare, and Machine Learning
+- 🙋 I'm an healthcare data analyst with interest in AI & Machine Learning
 - 🌱 I’m currently **upskilling** to become a Data Scientist
 - 👯 Open to collaboration, networking, and real-world projects
 - 🤔 Actively seeking remote internship and entry level opportunities
